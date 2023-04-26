@@ -1,0 +1,5 @@
+homepage: "https://www.beslist.nl/"
+documentation: "https://docs.google.com/document/d/195R-gMi-_1RgBebAKzwUWe8HLTtz1s99c1l8xOzfu9M"
+versions:
+  - sha: ceb6e0b33e67c43bf9d2220f79e02bc37f7b173c
+    changeNotes: Initial release.
